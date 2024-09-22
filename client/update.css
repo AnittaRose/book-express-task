@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.subsection{
+    background-color:rgb(255,230,25);
+}
+.images{
+    padding: 0px 0px 0px 200px;
+}
+.first{
+    background-color: black;
+    /* opacity: .7; */
+    background-image: url(./images/bhautik-patel-DWkI7bCokDU-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    padding: 20px;
+    
+}
+.form {
+    display: flex;
+    background: transparent;
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 0, 0, 0.542);
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    /* width: 50%; */
+}
+.second1{
+    background-color: black;
+    /* opacity: .7; */
+    background-image: url(./images/Premium\ Photo\ _\ Blurred\ bookshelves\ in\ library.jfif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    padding: 20px;
+}
+.form1{
+    background: transparent;
+    padding:10px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+    border: 2px solid white;
+    /* background-color: rgba(240, 248, 255, 0.322); */
+}
+.submit{
+    background: transparent;
+    padding:10px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+    border: 2px solid white;
+}
+.new{
+    padding: 10px;
+    font-size: 13px;
+    
+}
+.once{
+    font-size: 30px;
+}
+.new:hover{
+    border-bottom: 4px solid black;
+}
+.second{
+    background-color: rgb(252,250,245);
+}
